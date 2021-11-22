@@ -23,3 +23,7 @@ This will return all the relevant information from training on the STDOUT file (
 
 ### Github link:
 https://github.com/Lhisoka/GNR-638-Project
+
+### Presentation link:
+https://docs.google.com/presentation/d/1-VgwYgyPi4UW1CoTHDgVi7EISm5AbeZPVu62bCwqDsg/edit?usp=sharing
+
