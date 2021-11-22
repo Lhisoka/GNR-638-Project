@@ -20,3 +20,4 @@ python3 knn_mnist.py
 ```
 
 This will return all the relevant information from training on the STDOUT file (terminal output)
+Github link: https://github.com/Lhisoka/GNR-638-Project
