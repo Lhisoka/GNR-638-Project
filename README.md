@@ -24,6 +24,8 @@ This will return all the relevant information from training on the STDOUT file (
 ### Github link:
 https://github.com/Lhisoka/GNR-638-Project
 
-### Presentation link:
+### Presentation link (PPT):
 https://docs.google.com/presentation/d/1-VgwYgyPi4UW1CoTHDgVi7EISm5AbeZPVu62bCwqDsg/edit?usp=sharing
 
+### Link to video presentation:
+https://drive.google.com/file/d/1YcSUotgeRFTVEWv6d1g0uU3ZFfqqtCW5/view?usp=sharing
